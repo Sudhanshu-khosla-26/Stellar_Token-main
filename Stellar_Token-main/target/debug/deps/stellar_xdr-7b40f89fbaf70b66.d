@@ -1,0 +1,16 @@
+C:\Users\admi\Downloads\Stellar_Token-main\Stellar_Token-main\target\debug\deps\libstellar_xdr-7b40f89fbaf70b66.rmeta: C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\lib.rs C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\mod.rs C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\generated.rs C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\str.rs C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\scval_conversions.rs C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\scval_validations.rs C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\scmap.rs C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\../xdr/curr-version C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\../xdr/next-version
+
+C:\Users\admi\Downloads\Stellar_Token-main\Stellar_Token-main\target\debug\deps\stellar_xdr-7b40f89fbaf70b66.d: C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\lib.rs C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\mod.rs C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\generated.rs C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\str.rs C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\scval_conversions.rs C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\scval_validations.rs C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\scmap.rs C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\../xdr/curr-version C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\../xdr/next-version
+
+C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\lib.rs:
+C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\mod.rs:
+C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\generated.rs:
+C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\str.rs:
+C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\scval_conversions.rs:
+C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\scval_validations.rs:
+C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\curr\scmap.rs:
+C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\../xdr/curr-version:
+C:\Users\admi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\stellar-xdr-20.1.0\src\../xdr/next-version:
+
+# env-dep:CARGO_PKG_VERSION=20.1.0
+# env-dep:GIT_REVISION=8b9d623ef40423a8462442b86997155f2c04d3a1
